@@ -1,1 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "My Render Server",
+      "url": "https://anisette-v3-server-lai7.onrender.com/"
+    }
+  ]
+}
 
